@@ -1,0 +1,26 @@
+{
+  "name": "server-peer",
+  "version": "1.0.0",
+  "description": "Server application that runs on Server peers that enables creation of a Peer subnet and serve computing and storage resources through containerisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackstarTechnologies/Server-Peer.git"
+  },
+  "keywords": [
+    "server",
+    "golang",
+    "containerisation",
+    "end-to-end-encryption",
+    "Project-Neighborhood"
+  ],
+  "author": "Blackstar Technologies",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/BlackstarTechnologies/Server-Peer/issues"
+  },
+  "homepage": "https://github.com/BlackstarTechnologies/Server-Peer#readme"
+}
